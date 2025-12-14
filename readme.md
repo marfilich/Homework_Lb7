@@ -17,7 +17,7 @@
 7. **Конец**
 
 ### Блок-схема
-![Блок-схема алгоритма](https://github.com/marfilich/Homework/blob/main/homework_Lb7/лабораторная7.png?raw=true) 
+![Блок-схема алгоритма](https://github.com/marfilich/Homework_Lb7/blob/main/лаб7.png) 
 
 ## 2. Реализация программы
 ```C
